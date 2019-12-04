@@ -232,7 +232,7 @@ aside .switch {
 }
 
 .lotterty-infogo {
-    margin: 3rem auto 0 auto;
+    margin: 0 auto 0 auto;
     text-align: center
 }
 .lotterty-infogo h3 {
@@ -673,7 +673,7 @@ button.close {
     top: 714px;
     left: 148px;
     background: beige;
-    font-size: 2em;
+    font-size: 3.5em;
     line-height: 128px;
     right: 129px;
     text-align: center;
