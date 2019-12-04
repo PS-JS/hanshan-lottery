@@ -259,7 +259,7 @@ async function start() {
     // canvas 绘制中奖结果
     function drawAward(person) {
         var canvasEle = document.getElementById('lottery-canvas');
-        canvasEle.querySelector('.avatar-image').style.backgroundImage = `./img/avatar/${person.filename}`;
+        canvasEle.querySelector('.avatar-image').style.backgroundImage = `url(./img/avatar/${person.filename})`;
         canvasEle.querySelector('.avatar-name').innerText = person.name;
     }
 

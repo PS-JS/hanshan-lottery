@@ -662,6 +662,7 @@ button.close {
     position: absolute;
     background-position: center;
     background-size: contain;
+    background-repeat: repeat;
     top: 156px;
     left: 126px;
     width: 465px;
